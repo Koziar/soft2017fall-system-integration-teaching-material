@@ -7,6 +7,7 @@ If you do not already have VirtualBox and Vagrant installed, do it now
   * Download and install VirtualBox (https://www.virtualbox.org/wiki/Downloads)
   * Download and install Vagrant (https://www.vagrantup.com/downloads.html)
 
+Now, you can setup the VM.
 
   * Clone this repository into a directory of your choice (`/path/to/`):
 
