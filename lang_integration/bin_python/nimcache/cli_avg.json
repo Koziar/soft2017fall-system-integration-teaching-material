@@ -1,0 +1,24 @@
+{"compile":[
+],
+"link":[
+"/vagrant/bin_python/nimcache/cli_avg.o",
+"/vagrant/bin_python/nimcache/stdlib_system.o",
+"/vagrant/bin_python/nimcache/stdlib_os.o",
+"/vagrant/bin_python/nimcache/stdlib_strutils.o",
+"/vagrant/bin_python/nimcache/stdlib_parseutils.o",
+"/vagrant/bin_python/nimcache/stdlib_math.o",
+"/vagrant/bin_python/nimcache/stdlib_algorithm.o",
+"/vagrant/bin_python/nimcache/stdlib_times.o",
+"/vagrant/bin_python/nimcache/stdlib_posix.o",
+"/vagrant/bin_python/nimcache/stdlib_ospaths.o",
+"/vagrant/bin_python/nimcache/stdlib_json.o",
+"/vagrant/bin_python/nimcache/stdlib_hashes.o",
+"/vagrant/bin_python/nimcache/stdlib_tables.o",
+"/vagrant/bin_python/nimcache/stdlib_lexbase.o",
+"/vagrant/bin_python/nimcache/stdlib_streams.o",
+"/vagrant/bin_python/nimcache/stdlib_unicode.o",
+"/vagrant/bin_python/nimcache/stdlib_macros.o",
+"/vagrant/bin_python/nimcache/stdlib_sequtils.o"
+],
+"linkcmd": "gcc   -o /vagrant/bin_python/cli_avg  /vagrant/bin_python/nimcache/cli_avg.o /vagrant/bin_python/nimcache/stdlib_system.o /vagrant/bin_python/nimcache/stdlib_os.o /vagrant/bin_python/nimcache/stdlib_strutils.o /vagrant/bin_python/nimcache/stdlib_parseutils.o /vagrant/bin_python/nimcache/stdlib_math.o /vagrant/bin_python/nimcache/stdlib_algorithm.o /vagrant/bin_python/nimcache/stdlib_times.o /vagrant/bin_python/nimcache/stdlib_posix.o /vagrant/bin_python/nimcache/stdlib_ospaths.o /vagrant/bin_python/nimcache/stdlib_json.o /vagrant/bin_python/nimcache/stdlib_hashes.o /vagrant/bin_python/nimcache/stdlib_tables.o /vagrant/bin_python/nimcache/stdlib_lexbase.o /vagrant/bin_python/nimcache/stdlib_streams.o /vagrant/bin_python/nimcache/stdlib_unicode.o /vagrant/bin_python/nimcache/stdlib_macros.o /vagrant/bin_python/nimcache/stdlib_sequtils.o  -lm -lrt   -ldl"
+}
